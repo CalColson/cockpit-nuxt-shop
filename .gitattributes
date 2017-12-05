@@ -1,0 +1,2 @@
+*.js filter=gitignore
+*.vue filter=gitignore
