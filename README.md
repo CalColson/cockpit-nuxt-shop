@@ -1,3 +1,7 @@
+# Note
+
+Leaving tutorial incomplete due to a change in Cockpit CMS api that complicates current use of thumbnails. Check back here later if resolved.
+
 # nuxt-shop
 
 > Nuxt.js project
